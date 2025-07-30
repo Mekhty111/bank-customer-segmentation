@@ -1,4 +1,4 @@
-# 🚀 Analysis & Prediction of Customer Response to Bank Marketing Campaign
+# Analysis & Prediction of Customer Response to Bank Marketing Campaign
 
 ---
 
